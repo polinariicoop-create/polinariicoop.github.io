@@ -1,5 +1,3 @@
-# polinariicoop.github.io
-[offer (1).txt](https://github.com/user-attachments/files/26515099/offer.1.txt)
 <!DOCTYPE html>
 <html lang="ru">
 <head>
